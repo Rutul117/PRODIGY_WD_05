@@ -37,3 +37,4 @@ function displayWeather(data) {
   const weatherInfo = `Current weather in ${city}, ${country}: ${temperature}°C, ${description}.`;
   resultDiv.innerHTML = weatherInfo;
 }
+// 4
